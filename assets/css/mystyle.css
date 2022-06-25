@@ -1,0 +1,52 @@
+*{
+    text-shadow: 2px 2px 7px #111111;
+    
+}
+/*    what i do             */
+#ido_card {
+    box-shadow: -8px -8px 16px  rgba(0,0,0,0.8);
+    border-radius: 8px;
+    backdrop-filter: blur(4px);
+    background: rgba(74, 45, 182, 0.3);
+    color:rgb(230, 216, 216);
+    text-shadow: 2px 2px 7px #7c17da;
+    filter: blur(0px);
+
+}
+/*    what i do             */
+#who_iam {
+    box-shadow: 10px 10px 16px  rgba(0,0,0,0.8);
+    border-radius: 8px;
+    backdrop-filter: blur(8px);
+    background: rgba(74, 45, 182, 0.3);
+    color:rgb(230, 216, 216);
+    text-shadow: 2px 2px 7px #7c17da;
+    filter: blur(0px);
+    opacity: 1;
+    z-index: 5;
+
+}
+/*******************card classes***********************/
+.card{
+    box-shadow: 10px 10px 16px  rgba(0,0,0,0.8);
+}
+/******** text shadow classes*************/
+.txtShadow{
+    text-shadow: 2px 2px 7px #111111;
+}
+.txtShadow1{
+    text-shadow: 2px 2px 7px #111111;
+}
+.txtShadow2{
+    text-shadow: 2px 2px 7px #111111;
+}
+/******************header**************/
+#header{
+   
+    background-image: linear-gradient(    to right,rgba(102, 59, 143, 0.411),rgba(226, 223, 231, 0.788));
+    
+}
+
+.nav{
+    
+}
